@@ -16,7 +16,6 @@ Known issues:
 Going to past week and then moving to current week has an error where it doesn't move forward.
 as expected. 
 Teams are only ranked by points, should add GD as tie breaker.
-Unexpected crashes related to the run to end of season button then changing league.
 German football (since less games) mess up the formatting when going past 34 games
 
 Future features:
